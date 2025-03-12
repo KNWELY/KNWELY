@@ -49,8 +49,6 @@ Below are the following skills:
   <img alt="android" src="https://img.shields.io/badge/android%20studio-346ac1?style=flat-square&logo=android&logoColor=ffffff"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/KNWELY/KNWELY/output/snake.svg" alt="Snake animation" />
-
 **My contact networks**
 
 <p>
