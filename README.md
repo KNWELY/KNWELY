@@ -49,9 +49,9 @@ Below are the following skills:
   <img alt="android" src="https://img.shields.io/badge/android%20studio-346ac1?style=flat-square&logo=android&logoColor=ffffff"/>
 </p>
 
-**My contact networks**
-
 <img src="https://raw.githubusercontent.com/KNWELY/KNWELY/output/snake.svg" alt="Snake animation" />
+
+**My contact networks**
 
 <p>
   <a href="www.linkedin.com/in/bruno-rodrigues-silva-694026323" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" /></a>
