@@ -52,6 +52,5 @@ Below are the following skills:
 **My contact networks**
 
 <p>
-  <a href="www.linkedin.com/in/bruno-rodrigues-silva-694026323" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/KNWELY" target="_blank"><img alt="github" src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=ffffff"/></a>
 </p>
